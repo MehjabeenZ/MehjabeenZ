@@ -1,4 +1,4 @@
-### Hi there 👋 I am Mehjabeen from Pakistan.
+### Hi there 👋 I am Mehjabeen.
 
 - 🌱 I’m learning data science including programming in Python, SQL and statistical learning methods.
 - 🔭 I’m currently a graduate student at the University of Washington
